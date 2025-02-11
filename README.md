@@ -7,6 +7,12 @@ O "A pick and drop APP" é um aplicativo móvel de serviços para animais domés
 O aplicativo foi desenvolvido utilizando o framework Flutter, que permite a criação de aplicativos móveis multiplataforma de forma eficiente. Além disso, foram utilizadas as seguintes tecnologias e conceitos:
 
 - **Flutter SVG:** Para a visualização de imagens em melhor qualidade.
+- **Firebase Auth:** Para autenticação de usuários.
+- **Firebase Firestore:** Para salvar dados remotamente.
+- **Hiven:** Para persistencia de dados offline.
+- **HTTP:** Para chamada de API.
+- **Firebase Messaging:** Para o envio de notificações PUSH.
+- **Geocoding e Geolocator:** Para uso da localização do dispositivo
 
 ## Configuração e Instalação
 Antes de executar o aplicativo, certifique-se de ter o Flutter instalado em sua máquina. Você pode verificar a versão atual do Flutter digitando o seguinte comando no terminal:
